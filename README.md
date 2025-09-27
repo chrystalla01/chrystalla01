@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I am Chrystalla
 
-<!--
-**chrystalla01/chrystalla01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Find me at:**  
+- Gmail: [chrystallaf01@gmail.com](mailto:chrystallaf01@gmail.com)  
+- LinkedIn: [linkedin.com/in/chrystallaf](https://www.linkedin.com/in/chrystallaf/)  
+- CV: [View my CV]()
 
-Here are some ideas to get you started:
+### About me
+I’m an undergrad at Maastricht University (final year, Computer Science). I’m a Tech Enthusiast, passionate about learning and working with new tech. I like building products that serve a real purpose. I’m currently a software backend engineer at Qogita, so most contributions happen on my work account. Many of my repos are private while I organize them—if you need access, please reach out via email.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools I use
+**Languages:** Java, Python, HTML/CSS/JavaScript, TypeScript, C#, SQL, Svelte  
+**Frameworks & Platforms:** Django, FastAPI, Node.js, Next.js, LangChain, Redis, Celery, Apache Kafka  
+**Databases:** PostgreSQL, MySQL (Workbench)  
+**Dev & Ops:** REST APIs, Docker, Git, Maven  
+**Other:** MATLAB, Wireshark, Figma, Jira, Microsoft Office, AWS (basics), Retool
