@@ -3,7 +3,7 @@
 **Find me at:**  
 - Gmail: [chrystallaf01@gmail.com](mailto:chrystallaf01@gmail.com)  
 - LinkedIn: [linkedin.com/in/chrystallaf](https://www.linkedin.com/in/chrystallaf/)  
-- CV: [View my CV]()
+- CV: [View my CV](https://github.com/chrystalla01/chrystalla01/blob/89780a4b48841d02ce519f9258e4e8c0460de1d2/CV%20Chrystalla.pdf.pdf)
 
 ### About me:
 I’m an undergrad at Maastricht University (final year, Computer Science). I’m a Tech Enthusiast👩🏻‍💻, passionate about learning and working with new tech. I like building products that serve a real purpose. I’m currently a software backend engineer at Qogita, so most contributions happen on my work account. Many of my repos are private while I organize them—if you need access, please reach out via email.
